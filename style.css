@@ -11,6 +11,12 @@ body {
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
+.card-grid.w-dyn-items p.p2 {
+  opacity: 1 !important;
+}
+.card-container-content-wrap { 
+  height: auto !important;
+}
 
 audio, canvas, progress, video {
   vertical-align: baseline;
